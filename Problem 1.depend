@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1541231713 source:c:\users\malcolm donaldson\desktop\problem 1\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+	<math.h>
+
